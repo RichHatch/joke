@@ -7,7 +7,7 @@ $joke = $jokes[$number];
 
 $joke = preg_replace('/^[\-\~]+/','',$joke);
 
-if (preg_match('/^[\^]/', $joke) {
+if (preg_match('/^[\^]/', $joke)) {
     $joke = 'This joke has been censored. Plz try again. -HR'
 }
 
