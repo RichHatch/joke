@@ -92,7 +92,7 @@ When I found out Oxygen and Magnesium were going out I was like "OMg"
 The number one rule of being a hood rat is throwing your purse into a tree when a fight breaks out.
 -- Write "I hope the kid isn't born with freckles in the shape of a swastika" in the card and get to leave the baby shower early.
 Fell down in a bar last night but didn't spill my drink.  Is there an online application for Seal Team-6 or do I just wait for them to call?
-I just stopped the microwave after the time disappeared but before the beep, in case anyone needs me to defuse a bomb.
+-- I just stopped the microwave after the time disappeared but before the beep, in case anyone needs me to defuse a bomb.
 Oh, you're an Accidental Racist? I'm not any kind of racist. But good luck with that.
 I'm white trash but not "hold my baby, hold my weed, shits about to get real" white trash
 I'm developing an app that locates sex offenders near you. It's really just a directory of Catholic churches, but it's pretty accurate.
@@ -126,7 +126,7 @@ Just bought a $300 dollar tent so I can camp outside Best Buy for 3 days to save
 Save a life by counting to 10 backwards while slowly releasing and removing your hands from their neck.
 - I need an otterbox for my heart.
 Maybe baby deserved to be put in a corner. We don't know...
-At the airport. They say report anything suspicious. This lady's wearing Crocs with a business suit. What do I do?!
+-- At the airport. They say report anything suspicious. This lady's wearing Crocs with a business suit. What do I do?!
 I wish I had the motivation of the guy driving in the rain with the window down and a towel for a windshield wiper, fyi, he passed me.
 I must be doing it wrong, my version of Hot Mess is when I'm done eating a plate full of Buffalo Wild Wings
 Nothing says commitment like the guy walking with his wife's purse while they're shopping
@@ -851,7 +851,7 @@ I would like to thank my arms, for always being by side. My legs, for always sup
 I don't see why people get so excited about pi day.  It's so irrational.
 -- It's called Wal-Mart because the Center for Disease Control was taken.
 What doesn't kill you was only practicing.
-What's sweeter than the sound of a child's laughter? Sleeping late on Saturdays because you don't have any kids.
+-- What's sweeter than the sound of a child's laughter? Sleeping late on Saturdays because you don't have any kids.
 -- Whatever, people who make good decisions. Whatever.
 The first step in dealing with any serious problem is admitting that other people are the problem.
 Relationship status: I'm on Facebook a lot.
@@ -860,7 +860,7 @@ Tonite on House Hunters: Jill wants 4 bedrooms, granite countertops and a home s
 This lady on the train has that raspy, cigarette, alcohol, at death's door kinda voice. I'ma see if she'll record my voice mail message.
 I feel Blah which is Ugh cuz I typically feel Meh.
 If I could shoot lasers from my eyes I'd be outside right now shooting lasers from my eyes.
-I can usually tell if a guy is gay by how he blows me.
+^I can usually tell if a guy is gay by how he blows me.
 -- Not sure how many people will serve on each death panel, but we need to get those up and running to lower unemployment.
 Every morning I wake up at take a selfie o'clock
 -- I'm going to invent an app that tells you where the nearest bar is with no guy on a stool playing acoustic guitar.
@@ -878,7 +878,7 @@ Movie idea: Family moves into haunted house; ghosts appear; family too busy star
 -- Always check the height of nearby ceiling fans before giving a toddler a ride on your shoulders. Sharing for a friend.
 -- "Lunchables" is a good name because it doesn't make any grandiose claims: "This is able to be eaten as lunch."
 -- I saw an ad for burial plots and I thought, that's the last thing I need.
-Dear 6-year-old me: As an adult you won't need to know cursive but you will need an ability to type with your thumbs. The future is weird.
+-- Dear 6-year-old me: As an adult you won't need to know cursive but you will need an ability to type with your thumbs. The future is weird.
 I hate it when I try to impress a date by taking her to a nice restaurant and she orders something that isn't on my coupon.
 Whoever stole my copy of microsoft office, I will find you.  You have my word.
 There are only two hard things in computer science, naming things, cache invalidation, and off-by-one errors
@@ -950,11 +950,11 @@ Boy: Hey, can you hold this while I go for a walk? *gives girl his hand*
 Screw American Airlines, I'm only flying Air Jordan from now on.
 It's pretty messed up that Winnie the Pooh and Jack the Ripper have the same middle names.
 A gallon of gasoline has about 31 million calories.  Time to bulk up.  Screw creatine.
-1. Buy 3d printer. 2. Print a 3d printer. 3. Return original 3d printer.
+-- 1. Buy 3d printer. 2. Print a 3d printer. 3. Return original 3d printer.
 Maybe you should eat makeup so you can be pretty on the inside, bitch.
 Why did Cinderella's shoe fall off if it fit perfectly?
 "Don't kid yourself" would be a great slogan for an abortion clinic
-Million dollar idea: A button on your microwave called "people are sleeping" that stops all the beeping.
+-- Million dollar idea: A button on your microwave called "people are sleeping" that stops all the beeping.
 The sinking of the Titanic must have been a miracle to the lobsters in the kitchen
 'How It's Made' should do an episode about making an episode of 'How It's Made'
 If your shirt isn't tucked into your pants, then your pants are tucked into your shirt.
@@ -991,7 +991,7 @@ Things to try when fixing a bug: 1. Google 2. Stack Overflow 3. Documentation ..
 ParisHilton.js - removes everything between the <head> </head> tags.
 Twitter Bootstrap: the "ft. Pitbull" of software development
 I wrote a bot to keep hitting my colleague's blog with an IE6 User Agent so he has to keep supporting it. I feel terrible* *not that bad
-Just ordered a chicken and an egg from Amazon. Will keep you updated.
+-- Just ordered a chicken and an egg from Amazon. Will keep you updated.
 "Can you fetch me a glass of water please?" *35 mins later* "What are you doing?" "I'm building you a scalable drink delivery system."
 Twitter and watching TV at the same time because I like to party.
 -- How to be cool. A) cool sunglasses emoji B)
@@ -1002,13 +1002,13 @@ If your product sucks, simply add more dubstep to your promo video.
 mvp (noun): incomplete project used to raise money from rich people and shown to people living in SF.
 Pupils dilated. Sweaty palms. Tingly legs. You lean in. A world of opportunity lays before you. You close your eyes…and wait. - Pretty much every production push.
 I bet the Fellowship used Apple Maps to get to Mordor.  Explains the shitty route they took…
-When I die, I want my gravestone to just read: DEPRECATED
+~ when I die, I want my gravestone to just read: DEPRECATED
 Fact: Deadlines contribute to 25% of the work related stress in software development. Jira accounts for the other 75%.
 I sneezed earlier and Siri compiled it to valid Perl.
 Working remotely is hard because Dark Souls 2 is hard.
 mp;dr - modal popup; didn’t read
 PM: “sorry, you can’t use Node.js as we need to support users who don’t have JavaScript enabled” - Me: “are you joki…nope, you’re serious.”
-What it’s like to be micro-managed: Imagine you’re drowning and someone hands you work to do.
+-- What it’s like to be micro-managed: Imagine you’re drowning and someone hands you work to do.
 I'll never understand why we can't lose this hour in the middle of the day, during the work week.
 F Scott Fitzgerald, and F all of Scott Fitzgerald's family as well.
 My relationship with my Ex was very psychological...she's psycho and I'm logical.
