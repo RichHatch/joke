@@ -118,7 +118,7 @@ What if all taxi drivers are on the same conference call?
 -- Face down, ass up, that's the way we found Nana. RIP
 -- You wake me up AFTER you Go-Go??? Did you not understand my explicit directions???
 Spread your lies elsewhere, turkey bacon.
-- Today, I saw a midget prisoner climbing down a wall. As he turned and sneered at me, I thought: 'that's a little condescending'.    
+--- Today, I saw a midget prisoner climbing down a wall. As he turned and sneered at me, I thought: 'that's a little condescending'.    
 --- I told my son I think he's worthless, but jokes on him, I still believe in him.
 I survived two years under the rule of a crazed dictator. He turned 3 today. This shall be known as the Third Reich.
 Just bought a $300 dollar tent so I can camp outside Best Buy for 3 days to save $20 on a TV.
@@ -1026,14 +1026,14 @@ Plot twist, the dick jokes are coming from INSIDE Human Resources!
 It's 78 degrees at 7:30am. We're at Defcon 1 for swamp ass people. I repeat Defcon 1 for swamp ass.
 I told my girlfriend that she'd look sexier with her hair back.  Apparently that's an insensitive thing to say to a cancer patient.
 -- Boyfri(end). Girlfri(end). Piz(forever)za.
-A group of babies is called "I'm Leaving"
+-- A group of babies is called "I'm Leaving"
 "There's no 'u' in 'favorite'" - coach telling his British son that he prefers his American son
 -- Apparently he "loves me not." I wish this butterfly had more wings :(
 Mr. Gorbachev: Turn down for what?
 -- If video games have taught me anything, it's that you'll automatically get promoted if you kill your boss.
 -- I'm gaining weight for my role as "before picture"
 Nail polish is lipstick for deaf people
-Hand jobs are blow jobs for deaf people
+^Hand jobs are blow jobs for deaf people
 Mittens are muzzles for deaf people
 Mein kampf es su kampf
 God making man in his image was the original selfie
@@ -1135,7 +1135,7 @@ I'm free tonight if anyone feels like some French kissing and then maybe having 
 ^Sorry about all the bukkake jokes, lately. I don't know what came over me.
 ^I accidentally got my blow up doll pregnant. Related: I've got some balloons for sale.
 ^I'm so selfish I wear ribbed condoms inside out.
-My celebrity look-a-like is "jack-o-lantern left out 'til Thanksgiving"
+-- My celebrity look-a-like is "jack-o-lantern left out 'til Thanksgiving"
 -I'm reaching cartoon character levels of wearing the same jeans every day.
 Women are like parking spots: sometimes I drive my car into them.
 -- Unless it involves boobs or football I'm not interested today.
@@ -1165,7 +1165,7 @@ If you listen real closely, you can hear my alarm clock laughing as I set it.
 Don't "xoxoxoxo" unless you mean it... I'm not flying to Budapest again...
 ^My toaster comes complete with 4 different settings. 1. Barely Tolerable 2. Burnt 3. Entirely black 4. Chicago circa 1871
 -- Only 273 fruit roll-ups to go until I get my full serving of fruit...
-Did you know that if you try to keep your eyes open while you sneeze, you can accidentally shit your pants in the middle of the food court?
+-- Did you know that if you try to keep your eyes open while you sneeze, you can accidentally shit your pants in the middle of the food court?
 I've had so much caffeine today, I could thread a sewing machine while it was running.
 ^Damn bro, judging by your handshake I would hate to be your dick.
 -- How do you stop eating chips and salsa do they have to run out or do I die or what?
@@ -1174,7 +1174,7 @@ Why would anyone go big when they could go home?
 -- I've never been happier than that time some girl did the splits at the gym and I made a farting noise and everyone thought it was her.
 -- My anaconda don't want none unless you got a suitable living environment for him, a terrarium with a heat lamp, some small rodents, etc.
 I don't always regret my actions, but when I do it's because I got caught.
-alias yolo='git add -A && git commit -am "DEAL WITH IT #yolo" && git push -f origin master'
+~alias yolo='git add -A && git commit -am "DEAL WITH IT #yolo" && git push -f origin master'
 alias hammertime='mkdir mc_hammer && chmod 000 "mc_hammer" && echo "cant touch this"'
 -- I'm no scientist, but I don't think it's possible for EVERYBODY to be kung fu fighting.
 -- I'm rubber. You're glue. I don't conduct low voltage electricity. You're great for arts and crafts.
@@ -1185,10 +1185,16 @@ YouTube comments are just proof that man was never intended to evolve as fast as
 -- "You think giving birth is painful? Try being gently nudged!" - soccer players
 In London, do they snort queues of cocaine?
 -- Sorry I hung up on you. I didn't mean to answer the call.
-I met my perfect match on ePharmacy.com
+-I met my perfect match on ePharmacy.com
 It's not pretty being easy.
 My girlfriend calls me a control freak BECAUSE I MAKE HER CALL ME A CONTROL FREAK
 Relationship status: table for one, but drinks for two
-I'm sorry I called you an asshole. I thought you knew.
+-- I'm sorry I called you an asshole. I thought you knew.
 I'm man enough to admit when you're wrong
 I get angry when people tell me I have anger issues.
+I always carry a jellyfish in case I need to pee on someone.
+Hey, don't forget to complain about your job today, or about that thing in your life that you hate, which you can totally change, but won't.
+Imagine if America cut open the Statue of Liberty and found skeletons inside and it turned out the French had just failed a trojan mission.
+When an old person tells you how in their day people respected their elders, smile politely and ask them about women and black people.
+The first time I ever saw a whiteboard I was like ... wow.  That's remarkable.
+Who is this Rorschach guy? And why does he paint so many pictures of my parents fighting?
